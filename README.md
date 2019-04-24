@@ -3,8 +3,8 @@ Face detection and regognition using TensorFlow
 
 # references:
 
+ - https://arxiv.org/pdf/1503.03832.pdf 
  - http://www.aisangam.com/blog/real-time-face-recognition-using-facenet/
-  
  - https://github.com/davidsandberg/facenet
   
 # Pre-trained models:
